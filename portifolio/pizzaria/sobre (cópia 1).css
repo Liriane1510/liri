@@ -1,0 +1,32 @@
+a{
+    color: #000000;
+}
+div{
+    background-color:#FF0000;
+}
+
+body{
+    background-color:#000000;
+}
+h1{
+    text-align: left;
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+img,h4{
+    float: left;
+}
+h4{
+    color: rgb(0, 0, 0);
+}
+hr{
+    color: #FF0000;
+}
+td{
+    color: #000000;
+}

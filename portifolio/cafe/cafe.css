@@ -1,0 +1,32 @@
+body{
+    background-color:#deb887;
+    margin-left:20%;
+    margin-right:20%;
+    border:10px 10px 10px 10px;
+   font-family:sans-serif;
+    }
+h1.titulo{
+          color:#8d4513;
+          font-family:verdana;
+          text-align: center;
+
+          font-size:30pt;
+
+         }
+h1{
+ color:#8b4513;
+ font-family:verdana;
+ text-shadow:2px 2px 2px yellow;
+ }
+h2{
+  color:#8b4513;
+  text-shadow:2px 2px 2px yellow;
+ }
+img{
+   border:4px solio#8b4513;
+   object-fit:cover;
+   transform:translatex(50%);
+ }
+p{
+ color:white;
+}

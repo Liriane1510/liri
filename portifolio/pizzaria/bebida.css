@@ -1,0 +1,25 @@
+.imagem1,h4{
+    float: left;}
+    a{
+        color: #000000;
+    }
+    hr{
+        color: #FF0000;
+    }
+    #site{
+        background-color:#FF0000;
+    }
+    body{
+        background-color:#000000;
+    }
+    P{
+        color: aliceblue;
+    }
+    h1{
+        text-align: left;
+        color: aliceblue;
+    }
+    h5{
+        color: aliceblue;
+    }
+    
